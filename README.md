@@ -1,6 +1,6 @@
 # sorry.data.gouv.fr
 
-Mainteance page for data.gouv.fr.
+Maintenance page for data.gouv.fr.
 
 ## Credits
 
